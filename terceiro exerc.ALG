@@ -1,4 +1,3 @@
-
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Adonias
