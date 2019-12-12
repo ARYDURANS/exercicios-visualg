@@ -1,6 +1,6 @@
 Algoritmo "somador numerico com maior numero  "
 // Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+// Professor   : Adonias
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 12/12/2019
