@@ -1,16 +1,16 @@
-Algoritmo "conte até 100"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+Algoritmo "conte atÃ© 100"
+// Disciplina  :  [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
+// Professor   : Adonias 
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 12/12/2019
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
  salto, valor, contador : inteiro
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
  contador <- 0
  escreva ("quer contar ate quanto?")
  leia(valor)
