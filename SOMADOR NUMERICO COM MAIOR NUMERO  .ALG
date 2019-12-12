@@ -24,4 +24,5 @@ Inicio
 
   FimEnquanto
   escreval ("a soma de todos os valores foi ", soma)
+  escreval (" o maior valor digitado foi", maior)
 Fimalgoritmo
